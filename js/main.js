@@ -19,6 +19,11 @@ let circle = 0; //number
 circle = (radius * 2 * PI);
 console.log(circle);
 
+/////////////////////////////////////////////////////////////////////
+
 // Esercizio 3
 
+let name= 'Carlo' // string
+name= 'Marco'
+console.log(name);
 
